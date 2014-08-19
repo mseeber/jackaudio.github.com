@@ -1,5 +1,6 @@
 name: JACK Audio Connection Kit
 markdown: redcarpet
-pygments: true
+highlighter: true
+baseurl: ""
 
-baseurl: /jackaudio.github.com/
+exclude: [README.md]

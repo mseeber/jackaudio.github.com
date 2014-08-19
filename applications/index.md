@@ -106,7 +106,7 @@ menu_item: true
   * [**jack_mixer**](http://home.gna.org/jackmixer) is a GTK+JACK audio mixer app with a look similar to its hardware counterpart. It has lots of useful features, apart from being able to mix multiple JACKaudio streams. 
   * [**JackMaster**](http://69b.org/cms/jackmaster) is a Master Console. 
   * [**JackMiniMix**](http://www.aelius.com/njh/jackminimix) is a simple mixer with an [**OSC**](http://www.opensoundcontrol.org/) based control interface. 
-  * [**JackMix**](http://www.arnoldarts.de/drupal/?q=JackMix) is a Jack mixer. 
+  * [**JackMix**](http://www.arnoldarts.de/jackmix/) is a Jack mixer. 
   * [**The Non Mixer**](http://non-mixer.tuxfamily.org/) is a powerful, reliable and fast modular Digital Audio Mixer. 
 
 ## Multi-track sequencers and HDR systems
@@ -145,6 +145,7 @@ menu_item: true
   * [**libjackmm**](http://sourceforge.net/projects/libjackmm) is a C++ interface to the jack audio connection kit. 
   * [**Pure Data**](http://puredata.info/) is a real-time graphical programming environment for audio, video, and graphical processing. 
   * [**PyJack**](http://sourceforge.net/projects/py-jack/) a Python module which provides an interface to Jack. 
+  * [**JACK-connector**](https://github.com/unclechu/node-jack-connector) a Node.JS module which provides an interface to Jack. 
   * [**Qjack**](https://bitbucket.org/asiniscalchi/qjack) allows you to connect Jack to QT very easily. 
   * [**RtAudio**](http://www.music.mcgill.ca/~gary/rtaudio) is a set of C++ classes that provide a common API (Application Programming Interface) for realtime audio input/output. 
   * [**Wine**](http://www.winehq.com/) an application that lets you run and recompile Windows applications under Linux. 
